@@ -1,6 +1,6 @@
 # ⚡ EZ Codez
 
-Quickly generate a qrcode in two steps
+Quickly generate a qrcode in just a few steps
 
 ## How to use
 
